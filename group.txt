@@ -1,0 +1,14 @@
+GROUP_KI-17-2
+13469 Fedorov_Fedor_Fedorovich 08 05 1998 1
+GROUP_KI-17-2
+13461 Felton_Anabet_Nicolaevna 25 04 2000 1
+GROUP_KI-17-1
+13459 Petrov_Petr_Petrovich 01 02 1998 0
+GROUP_KI-17-1
+13468 Sidorov_Sidor_Sidorovich 05 03 1998 0
+GROUP_KI-17-2
+13462 Winston_Fia_Akecsandrovna 11 01 1999 0
+GROUP_KI-17-2
+13463 Watson_Emma_Igorevna 15 04 1998 0
+GROUP_KI-17-2
+13464 Potter_James_Artemovich 05 02 1999 0
